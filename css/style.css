@@ -1,0 +1,31 @@
+.recipe-list a {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-list h1 {
+    text-align: center;
+}
+
+.steps p {
+    text-align: center;
+}
+.steps img {
+    height: auto;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    width: 400px;
+}
+
+.steps h1 {
+    text-align: center;
+    background-color: paleturquoise;
+}
+
+.steps .text{
+    font-size: 18px;
+}
